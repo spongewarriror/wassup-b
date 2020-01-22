@@ -1,2 +1,1 @@
-# wassup-b
-trashman
+#this code has no function, other than to display text on a screen, cheers!
